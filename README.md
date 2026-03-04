@@ -10,7 +10,7 @@ A realistic vehicle control panel NUI for FiveM. Hold `~` to open the panel whil
 
 ![nc-carcontrol Full View 1](https://r2.fivemanage.com/AGIqkS85vq6NpkHypOknK/nc-carcontrol1.png)
 
-![nc-carcontrol Full View 2](https://r2.fivemanage.com/AGIqkS85vq6NpkHypOknK/nc-carcontrol1.png)
+![nc-carcontrol Full View 2](https://r2.fivemanage.com/AGIqkS85vq6NpkHypOknK/nc-carcontrol2.png)
 
 ---
 
@@ -68,4 +68,5 @@ ensure nc-carcontrol
 ## Discord
 
 [discord.gg/noxcore](https://discord.gg/noxcore)
+
 
